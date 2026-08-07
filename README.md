@@ -1,14 +1,7 @@
-
-
-
-
-
-
-
-
+<img width="353" height="250" alt="Image" src="https://github.com/user-attachments/assets/175cea95-edf4-4456-ae7a-2698228c0c5a" />
 
 <header>
-  <h1>Laboratório AWS Amazon EC2</h1>
+  <h1 align="center">Laboratório AWS Amazon EC2</h1>
 </header>
 
 <div><h2>Configuração de Instância EC2</h2>
@@ -23,6 +16,11 @@
 
 
 
-<footer>
-<h6>Todos direitos reservados 2026</h6>
-</footer>
+
+
+
+
+
+<p align="center">
+  <sub>© 2026 Alessandro Batista Prudente — Todos os direitos reservados.</sub>
+</p>
