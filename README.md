@@ -186,9 +186,16 @@ A experiência ajudou a conectar conceitos teóricos de computação em nuvem co
 
 ## 📸 Evidências do laboratório
 
-### Instância EC2
+### Criação da Instância EC2
 
-> Adicione aqui um print da instância EC2 em execução.
+<img width="500" alt="Image" src="https://github.com/user-attachments/assets/ec8d2af9-18cd-4df1-87fb-107c4976121f" />
+<img width="500" alt="Image" src="https://github.com/user-attachments/assets/b3e2abd4-4ae2-4606-9d86-008d8bf3edbe" />
+<img width="500" height="280" alt="Image" src="https://github.com/user-attachments/assets/2501d752-ff3d-4ae3-92d8-ae8a53a205cd" />
+<img width="500" alt="Image" src="https://github.com/user-attachments/assets/70c9199a-d562-4231-b11e-8304192ff5a5" />
+<img width="500" alt="Image" src="https://github.com/user-attachments/assets/60b74ce5-5261-49b6-812e-0226259cb353" />
+<img width="500" height="280" alt="Image" src="https://github.com/user-attachments/assets/4853c30d-2c92-48ae-80ee-da8fa744b7c4" />
+<img width="500" alt="Image" src="https://github.com/user-attachments/assets/8fd58751-2a10-4514-8040-17163100adaa" />
+<img width="500" alt="Image" src="https://github.com/user-attachments/assets/cdc470b0-32cb-47d9-bef9-09ecb999d1e7" />
 
 ```text
 📷 /images/ec2-instance.png
