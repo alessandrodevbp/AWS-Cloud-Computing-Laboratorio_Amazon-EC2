@@ -1,4 +1,7 @@
-<img width="500" height="280" alt="Image" src="https://github.com/user-attachments/assets/175cea95-edf4-4456-ae7a-2698228c0c5a" />
+<p align="center">
+  <img width="400" alt="Amazon EC2" src="https://github.com/user-attachments/assets/175cea95-edf4-4456-ae7a-2698228c0c5a" />
+</p>
+
 
 <header>
   <h1 align="center"> ☁️Laboratório AWS — Introdução ao Amazon EC2</h1>
