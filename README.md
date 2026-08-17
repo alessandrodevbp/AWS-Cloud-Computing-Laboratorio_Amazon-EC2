@@ -206,7 +206,8 @@ A experiência ajudou a conectar conceitos teóricos de computação em nuvem co
 
 ### Monitoramento
 
-> Adicione aqui um print das métricas da instância.
+<img width="500" height="260" alt="Image" src="https://github.com/user-attachments/assets/add80d0e-40a8-4032-a567-8e0fcd40af6c" />
+<img width="500" height="260" alt="Image" src="https://github.com/user-attachments/assets/d276158f-579e-47f7-b0c1-4c92d97eb2d6" />
 
 ```text
 📷 /images/cloudwatch.png
