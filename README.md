@@ -236,10 +236,27 @@ A experiência ajudou a conectar conceitos teóricos de computação em nuvem co
 
 ### Redimensionamento (Alteração do tipo de instância e do volume EBS)
 
-> Adicione aqui um print mostrando a alteração da instância e do volume EBS.
+<img width="500" alt="Image" src="https://github.com/user-attachments/assets/e9cc1fe5-9b15-4f67-8e4d-397d8bf916ee" />
+<img width="500" alt="Image" src="https://github.com/user-attachments/assets/05877202-9ea6-4f22-88db-ccc2c658c9f3" />
+<img width="500" height="260" src="https://github.com/user-attachments/assets/75458769-1b11-45af-81a5-5402dc42a60d" />
+<img width="500" height="260" alt="Image" src="https://github.com/user-attachments/assets/7498f7e7-0c07-4791-b5ab-b044ad7a382f" />
+<img width="500" height="260" alt="Image" src="https://github.com/user-attachments/assets/376b2ec8-d6c3-49dd-ac8c-63d47549ebd0" />
+<img width="500" height="260" alt="Image" src="https://github.com/user-attachments/assets/1cd174d4-ede3-424a-ad06-9659fbc717df" />
+<img width="500" height="260" alt="Image" src="https://github.com/user-attachments/assets/dc7c43a4-09bb-4672-b792-44eceb966f9a" />
+<img width="500" height="260" alt="Image" src="https://github.com/user-attachments/assets/d7347a58-79b3-48d8-8e13-7c9701fc6587" />
+<img width="500" alt="Image" src="https://github.com/user-attachments/assets/b2f9a1d7-6eb1-4e89-9d9c-b7bf9432cd32" />
+<img width="500" alt="Image" src="https://github.com/user-attachments/assets/197d12a6-b88b-4fbf-b5ff-93eb3eda57fb" />
+<img width="500" alt="Image" src="https://github.com/user-attachments/assets/3cbd7a40-23c7-49a1-8e07-a627e89ff46e" />
+<img width="500" alt="Image" src="https://github.com/user-attachments/assets/f846f440-3d94-4263-b27f-fac6874f8ea0" />
+<img width="500" alt="Image" src="https://github.com/user-attachments/assets/99df7f88-f195-44c2-a817-555020cb5852" />
 
-```text
-📷 /images/resize-ec2.png
+```
+⚠️ Observação
+Ao realizar a criação da instância "Web Server", a "Proteção Contra Encerramento" ficou desabilitada, não sendo possível
+prosseguir com o que era proposto neste laboratório: apresentar a falha ao tentar excluir a instância.
+Dessa forma, realizei a criação de uma nova instância, "Web Server 2", com a "Proteção Contra Encerramento" habilitada.
+Assim, foi possível apresentar a falha ao tentar excluir essa instância, conforme proposto no laboratório.
+Por esse motivo, houve uma alteração nos prints finais.
 ```
 
 ---
