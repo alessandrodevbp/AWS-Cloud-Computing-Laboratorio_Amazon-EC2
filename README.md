@@ -200,18 +200,14 @@ A experiência ajudou a conectar conceitos teóricos de computação em nuvem co
 <img width="500" alt="Image" src="https://github.com/user-attachments/assets/8fd58751-2a10-4514-8040-17163100adaa" />
 <img width="500" alt="Image" src="https://github.com/user-attachments/assets/cdc470b0-32cb-47d9-bef9-09ecb999d1e7" />
 
-```text
-📷 /images/ec2-instance.png
-```
+---
 
 ### Monitoramento
 
 <img width="500" height="260" alt="Image" src="https://github.com/user-attachments/assets/add80d0e-40a8-4032-a567-8e0fcd40af6c" />
 <img width="500" height="260" alt="Image" src="https://github.com/user-attachments/assets/d276158f-579e-47f7-b0c1-4c92d97eb2d6" />
 
-```text
-📷 /images/cloudwatch.png
-```
+---
 
 ### Security Group
 
@@ -221,20 +217,15 @@ A experiência ajudou a conectar conceitos teóricos de computação em nuvem co
 <img width="500" alt="Image" src="https://github.com/user-attachments/assets/88084316-fa76-4a68-9593-367eb11389f9" />
 <img width="500" alt="Image" src="https://github.com/user-attachments/assets/5e75a199-5b30-4d5f-b713-d64f3dd0030e" />
 
-
-```text
-📷 /images/security-group.png
-```
+---
 
 ### Servidor Web
 
 <img width="500" alt="Image" src="https://github.com/user-attachments/assets/4df7df0e-601c-4894-a41e-d709dfa5e0b9" />
 
-```text
-📷 /images/web-server.png
-```
+---
 
-### Redimensionamento (Alteração do tipo de instância e do volume EBS)
+### Redimensionamento (Alteração do tipo de instância, do volume EBS e exclusão (encerramento) de instância)
 
 <img width="500" alt="Image" src="https://github.com/user-attachments/assets/e9cc1fe5-9b15-4f67-8e4d-397d8bf916ee" />
 <img width="500" alt="Image" src="https://github.com/user-attachments/assets/05877202-9ea6-4f22-88db-ccc2c658c9f3" />
