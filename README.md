@@ -204,22 +204,6 @@ A experiência ajudou a conectar conceitos teóricos de computação em nuvem co
 📷 /images/ec2-instance.png
 ```
 
-### Security Group
-
-> Adicione aqui um print da regra HTTP configurada.
-
-```text
-📷 /images/security-group.png
-```
-
-### Servidor Web
-
-> Adicione aqui um print da página `Hello From Your Web Server!`.
-
-```text
-📷 /images/web-server.png
-```
-
 ### Monitoramento
 
 > Adicione aqui um print das métricas da instância.
@@ -228,7 +212,28 @@ A experiência ajudou a conectar conceitos teóricos de computação em nuvem co
 📷 /images/cloudwatch.png
 ```
 
-### Redimensionamento
+### Security Group
+
+<img width="500" height="260" src="https://github.com/user-attachments/assets/ad743638-21f5-41e7-8f48-a8c415728cf5" />
+<img width="500" alt="Image" src="https://github.com/user-attachments/assets/1ad0dedf-a1c5-460a-b204-93e5ed0d0061" />
+<img width="500" alt="Image" src="https://github.com/user-attachments/assets/b248eb73-8045-49cf-8590-99af7da841e0" />
+<img width="500" alt="Image" src="https://github.com/user-attachments/assets/88084316-fa76-4a68-9593-367eb11389f9" />
+<img width="500" alt="Image" src="https://github.com/user-attachments/assets/5e75a199-5b30-4d5f-b713-d64f3dd0030e" />
+
+
+```text
+📷 /images/security-group.png
+```
+
+### Servidor Web
+
+<img width="500" alt="Image" src="https://github.com/user-attachments/assets/4df7df0e-601c-4894-a41e-d709dfa5e0b9" />
+
+```text
+📷 /images/web-server.png
+```
+
+### Redimensionamento (Alteração do tipo de instância e do volume EBS)
 
 > Adicione aqui um print mostrando a alteração da instância e do volume EBS.
 
